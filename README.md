@@ -121,8 +121,8 @@ E-commerce platform specializing in customizable printed apparel, offering a sea
 
 ## 🎓 Education
 
-- **BCA** (2022-2025) - Christ University, Bangalore - 66.11%
-- **CBSE Class XII** (2021-2022) - Lancers Convent, Delhi - 87.20%
+- **BCA** (2022-2025) - Christ University, Bangalore
+- **CBSE Class XII** (2022) - Lancers Convent, Delhi
 
 ## 🏆 Certifications
 
@@ -132,13 +132,9 @@ E-commerce platform specializing in customizable printed apparel, offering a sea
 - Kotlin Beginners - Infosys Springboard
 - Software Engineering And Agile Software Development - Infosys Springboard
 
-## ⚡ Recent Activity
-
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
 
 ## 🎵 Vibing To
-[![Spotify](https://novatorem-spotify-tawny.vercel.app/api/spotify)](https://open.spotify.com/user/youruserid)
+[![Spotify](https://novatorem-spotify-tawny.vercel.app/api/spotify)](https://open.spotify.com/user/315uexwt5uxct5w2z3wcj3iiaqeu?si=S5bmd32YQyaFGZyVZVom6A)
 
 ## 📊 Weekly Development Breakdown
 
