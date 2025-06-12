@@ -84,7 +84,7 @@ I'm a BCA student at Christ University with a unique dual passion for software d
 
 <div align="center">
 
-<a href="https://github.com/GarvThakral/Dex">
+<a href="https://github.com/GarvThakral/CLIProject">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=GarvThakral&repo=CLIProject&theme=radical" />
 </a>
 <a href="https://github.com/GarvThakral/JobDashboard">
