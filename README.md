@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello World, I'm Garv Thakral!
+# <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> Hello, I'm Garv Thakral!
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177FE&center=true&vCenter=true&width=940&lines=Full-Stack+Developer;Creative+Coder;CLI+Tool+Engineer;3D+and+VFX+Enthusiast;Problem+Solver" alt="Typing SVG" />
