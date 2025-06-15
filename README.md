@@ -28,7 +28,7 @@ I'm a BCA student at Christ University with a unique dual passion for software d
 - 👨‍💻 All my projects are available at [github.com/GarvThakral](https://github.com/GarvThakral)
 - 💬 Ask me about **React, Node.js, CLI Development, or Creative Coding**
 - 📱 Reach me at: **+91 7982646243**
-- ⚡ Fun fact: **When I'm not coding, I'm creating visual magic with Blender and After Effects!**
+
 
 </details>
 
