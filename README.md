@@ -1,4 +1,4 @@
-# Hi, I’m Garv Thakral 👋
+# Hi, I’m Garv Thakral 
 
 **Creative Coder • Full-Stack Developer • CLI Enthusiast**
 
