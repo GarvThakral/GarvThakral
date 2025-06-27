@@ -1,6 +1,6 @@
 # Hi, I’m Garv Thakral 
 
-**Creative Coder • Full-Stack Developer • CLI Enthusiast**
+**Creative Coder • Full-Stack Developer**
 
 I bridge the gap between pixel-perfect design and rock-solid code. With a BCA from Christ University and hands-on experience building everything from developer tools in C++ to interactive React/Node apps, I turn ideas into polished products.
 
