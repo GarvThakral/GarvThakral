@@ -1,31 +1,38 @@
-# Hi, I’m Garv Thakral 
+# Hi, I’m Garv Thakral
 
-**Creative Coder • Full-Stack Developer**
+**AI/ML Engineer • Creative Coder**
 
-I bridge the gap between pixel-perfect design and rock-solid code. With a BCA from Christ University and hands-on experience building everything from developer tools in C++ to interactive React/Node apps, I turn ideas into polished products.
+I specialize in building intelligent systems and machine learning solutions. With a BCA from Christ University and hands-on experience in NLP, computer vision, MLOps, and web platforms, I bridge robust data engineering and polished user experiences.
 
 ---
 
 ## 🚀 What I Build
 
-- **Dex CLI**: My flagship C++ tool to streamline developer workflows—project scaffolding, Git shortcuts, deployments, and more.
-- **SkillTrade**: A token-driven skill-exchange platform featuring real-time video calls and chat.
-- **Job Dashboard**: AI-powered tracker that parses job listings and tailors your resume suggestions.
+- **Bengali NLI System**: Fine-tuned XLM-RoBERTa-Large (with LoRA) for Bengali premise-hypothesis classification, achieving 84% F1-score.
+- **Document Intelligence & QA System**: Custom RAG pipeline for 1,000+ documents, built using SentenceTransformers, ChromaDB, LangChain, Gemini, and AWS Lambda.
+- **Emotion Drift Monitoring System (EDM)**: YouTube comment analytics with DistilBERT, ZenML, MLflow, and Streamlit, detecting and alerting on emotion drift.
+- **Sales Call Conversion Analyzer**: NLP pipeline predicting conversion likelihood for sales calls and generating tailored follow-up emails with GPT-4o.
+- **Image Classification via ResNet-50**: CNN-based classifier, trained and deployed with Flask API and Docker, achieving 87.6% accuracy.
+- **Dex CLI**: Flagship C++ developer tool for project scaffolding, Git automation, and workflow ops.
+- **SkillTrade**: Token-driven platform for skill exchange with real-time video calls and chat.
+- **Job Dashboard**: AI-powered job tracker that parses listings and generates resume recommendations.
 
 ---
 
 ## 🛠️ My Toolkit
 
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Backend**: Node.js, Express, FastAPI, PostgreSQL, Prisma
-- **Languages**: C++, JavaScript/TypeScript, Python
-- **DevOps**: Docker, Git, CI/CD pipelines
+- **Core ML/DL**: Python, TensorFlow, PyTorch, Keras, Scikit-learn, XGBoost, Hugging Face Transformers
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Plotly, Jupyter, Statistics, A/B Testing
+- **MLOps & Deployment**: MLflow, ZenML, Weights & Biases, DVC, Docker, Git, CI/CD, AWS (Lambda, S3, EC2), FastAPI, Flask, Streamlit
+- **Databases**: PostgreSQL, MongoDB, ChromaDB, Redis, Vector DBs
+- **Web**: React, Next.js, Node.js, HTML/CSS (basic)
+- **Languages**: Python, C++, JavaScript/TypeScript, SQL
 - **Creative**: Blender, After Effects, Photoshop
 
 ---
 
 ## 🌟 Let’s Connect
 
-- [GitHub](https://github.com/GarvThakral) • [LinkedIn](https://linkedin.com/in/garv-thakral) • [Email](mailto:garvthakralfx@gmail.com)
+If you want to collaborate, discuss AI/ML, or just say hi, you’ll find my contact info elsewhere on this site.
 
-_Passionate about crafting seamless user experiences and pushing code to its limits. Let’s build something amazing together!_```
+_Passionate about building AI products, extracting insights from data, and pushing technology to its creative limits._
